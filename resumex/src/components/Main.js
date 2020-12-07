@@ -15,7 +15,7 @@ import document_logo from "../assets/img/document_logo.svg";
 
 import ResultTable from "./ResultTable";
 import ToggleSwitch from "../components/ToggleSwitch";
-import useJobPostings from "../Hooks/jobComponents";
+import useJobPostings from "../Hooks/jobPostings";
 
 import extrahelp from "../Helpers/extrahelp";
 
